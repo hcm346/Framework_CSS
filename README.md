@@ -1,4 +1,7 @@
 # Framework_CSS <br/>
+<br/>
+
+Pour avoir un apercu du projet je vous est mis un dossier "ScreenShot_Project" 
 
 ![Frameworl_css](https://user-images.githubusercontent.com/93912299/178002844-b9da6c57-616e-43ad-b2fe-6999fee129c0.png)
 ![Capture d’écran de 2022-07-08 15-30-07](https://user-images.githubusercontent.com/93912299/178002842-4f5f57e5-774f-419a-8707-c8eb5f322955.png)
